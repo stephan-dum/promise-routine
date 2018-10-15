@@ -1,0 +1,35 @@
+{
+  "name": "@aboutweb/promise-routine",
+  "version": "1.0.0",
+  "description": "Creates a trunk out of callbacks that will execute as routine",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stephan-dum/promise-routine.git"
+  },
+  "keywords": [
+    "promise",
+    "es6",
+    "routine"
+  ],
+  "author": "Stephan Dum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephan-dum/promise-routine/issues"
+  },
+  "homepage": "https://github.com/stephan-dum/promise-routine#readme",
+  "dependencies": {},
+  "devDependencies": {
+  	"jasmine" : "^3.1",
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.12"
+  }
+}
