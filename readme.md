@@ -1,8 +1,8 @@
-#promise-routine
+# promise-routine
 
 A bromised base routine that builds up trunkswhich can be executed in a syncrounized fashion.
 
-##Usage:
+## Usage:
 
 ```javascript
 import * as routine from "@aboutweb/promise-routine";
