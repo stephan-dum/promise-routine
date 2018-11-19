@@ -1,6 +1,6 @@
 # promise-routine
 
-A bromised base routine that builds up trunkswhich can be executed in a syncrounized fashion.
+A promised base routine that builds up trunks which can be executed in a syncrounized fashion.
 
 ## Usage:
 
